@@ -1,6 +1,6 @@
 <?php
 
-for($i=0;$i<1000;$i++){
+for($i=10000;$i<15000;$i++){
     $rand = rand(1, 15);
     $content = [
         "name"=>"JackHorse #".$i,
